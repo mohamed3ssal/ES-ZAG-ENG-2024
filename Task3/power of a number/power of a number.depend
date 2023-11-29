@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701147161 source:c:\embeddedc\es-zag-eng-2024\task3\power of a number\main.c
+	<stdio.h>
+	<stdlib.h>
+
