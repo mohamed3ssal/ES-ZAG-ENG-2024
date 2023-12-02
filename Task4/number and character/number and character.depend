@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701485335 source:c:\embeddedc\es-zag-eng-2024\task4\number and character\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701491346 source:c:\embeddedc\es-zag-eng-2024\task4\the last 2 digits of multiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+
