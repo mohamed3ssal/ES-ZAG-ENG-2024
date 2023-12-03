@@ -10,7 +10,16 @@ int main()
 
             int shifter = num >> i ;
 
+            if (shifter > 0){
+
+
+
+
             printf("%d" , (shifter & 1) );
+
+            }
+
+
 
 
 
