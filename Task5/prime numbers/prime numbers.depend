@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702071779 source:c:\projects\embeddedc\es-zag-eng-2024\task5\prime numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
