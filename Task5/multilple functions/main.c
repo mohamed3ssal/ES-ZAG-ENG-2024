@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 
 unsigned int set(unsigned int num, int bit_num);
 unsigned int clear(unsigned int num, int bit_num);
