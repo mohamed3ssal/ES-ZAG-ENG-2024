@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702396894 source:c:\projects\embeddedc\es-zag-eng-2024\task7\frequency of each digits\main.c
+	<stdio.h>
+	<stdlib.h>
+

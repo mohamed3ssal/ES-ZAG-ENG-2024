@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702394836 source:c:\projects\embeddedc\es-zag-eng-2024\task7\reverse of the matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

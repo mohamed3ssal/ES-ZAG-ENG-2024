@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702339156 source:c:\projects\embeddedc\es-zag-eng-2024\task7\grades\main.c
+	<stdio.h>
+	<stdlib.h>
+
